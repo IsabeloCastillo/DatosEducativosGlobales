@@ -4,15 +4,48 @@
 # DatosEducativosGlobales
 Documentación del Dataset de Datos Educativos de la ONU Descripción General Este dataset contiene datos educativos extraídos del portal de datos de las Naciones Unidas, disponible en UN Data. La recolección y limpieza de estos datos fue un proceso exhaustivo y meticuloso, que implicó el uso de técnicas avanzadas como expresiones regulares.
 
-🇪🇸 🟥🟨🟥 Documentación del Dataset de Datos Educativos de la ONU Descripción General Este dataset contiene datos educativos extraídos del portal de datos de las Naciones Unidas, disponible en UN Data. La recolección y limpieza de estos datos fue un proceso exhaustivo y meticuloso, que implicó el uso de técnicas avanzadas como expresiones regulares para garantizar la precisión y la utilidad del dataset. Agradecimientos Queremos agradecer a las Naciones Unidas por proporcionar estos datos de manera abierta y accesible. Su compromiso con la transparencia y la difusión del conocimiento es crucial para investigadores, analistas de datos y tomadores de decisiones en todo el mundo. Estructura del Dataset El dataset consta de las siguientes columnas:
+# Dataset de Datos Educativos de la ONU 🇪🇸 🟥🟨🟥
 
-Índice: Un número de índice único para cada fila.
-ID: Un identificador numérico asignado a cada registro.
-Pais: El nombre del país al que corresponden los datos.
-Año: El año en que se registraron los datos.
-Tipo de Dato Educativo: La categoría del dato educativo, como tasas de matrícula en diferentes niveles educativos.
-Tasa: El valor numérico asociado con el tipo de dato educativo.
-Fuente Datos: La fuente de donde se extrajeron los datos, en este caso, la ONU. Posibles Usos del Dataset Este dataset es adecuado para una variedad de análisis y aplicaciones, tales como: • Análisis de Tendencias Educativas: Explorar cómo las tasas de matriculación y otros indicadores educativos han cambiado a lo largo del tiempo en diferentes países. • Comparaciones Internacionales: Realizar comparaciones entre países en términos de sus avances y desafíos educativos. • Modelado Predictivo: Utilizar los datos para predecir tendencias futuras en la educación a nivel global o regional. • Investigación en Políticas Educativas: Proporcionar una base de datos sólida para investigadores y formuladores de políticas interesados en mejorar los sistemas educativos. Proceso de Limpieza y Preparación El proceso de limpieza y preparación de este dataset fue particularmente desafiante. Se emplearon expresiones regulares para filtrar y organizar los datos de manera efectiva. Este proceso garantizó que el dataset final estuviera libre de errores comunes como entradas duplicadas, valores faltantes o malformados y problemas de consistencia en los datos.
+## Descripción General
+Este dataset proporciona una amplia gama de datos educativos, meticulosamente extraídos y procesados del portal de datos de las Naciones Unidas (UN Data). La rigurosidad en la recolección y limpieza de estos datos asegura una alta precisión y utilidad, facilitando análisis complejos y la toma de decisiones informadas en el ámbito educativo global.
+
+## Agradecimientos
+Extendemos nuestros más sinceros agradecimientos a las Naciones Unidas por facilitar el acceso a esta rica fuente de datos. Su compromiso con la transparencia y la diseminación del conocimiento es esencial para el avance de investigaciones y análisis a nivel mundial.
+
+## Estructura del Dataset
+El dataset se organiza en las siguientes columnas:
+- **Índice**: Número único para cada entrada.
+- **ID**: Identificador numérico para cada registro.
+- **País**: Nombre del país correspondiente.
+- **Año**: Año de registro de los datos.
+- **Tipo de Dato Educativo**: Categorización de los datos (ejemplo: tasas de matrícula).
+- **Tasa**: Valor numérico correspondiente al dato educativo.
+- **Fuente de Datos**: Referencia a la ONU como la fuente primaria.
+
+## Visualizaciones y Análisis
+- **Mapas de Calor**: Análisis de tasas de matrícula por país.
+- **Gráficos de Línea**: Evolución de indicadores educativos a lo largo del tiempo.
+
+## Limpieza y Preparación del Dataset
+El proceso de limpieza fue meticuloso, empleando expresiones regulares para asegurar la correcta separación y organización de los datos. Este proceso fue esencial para garantizar la consistencia y precisión de la información.
+
+## Instalación y Configuración
+(Proporcionar instrucciones sobre cómo configurar cualquier software o librería necesaria para utilizar el dataset).
+
+## Ejemplos de Uso
+(Proporcionar ejemplos de código sobre cómo cargar y utilizar el dataset).
+
+## Licencia
+Información sobre la licencia bajo la cual se comparte el dataset.
+
+## Contacto
+Si tienes preguntas o deseas colaborar, no dudes en contactar (proporcionar medio de contacto).
+
+## Próximas Actualizaciones y Desarrollo de la API
+Estamos desarrollando una API con interfaz gráfica que facilitará la manipulación y visualización interactiva de los gráficos basados en este dataset. Esta herramienta permitirá el acceso a través de una URL, ofreciendo un análisis más dinámico y adaptado a necesidades específicas.
+
+**¡Apreciamos tu interés y apoyo continuo! Esperamos presentarte estas emocionantes mejoras muy pronto!**
+
 
 🟦🟥🟦 Documentation of the UN Educational Data Dataset
 
