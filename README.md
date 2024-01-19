@@ -30,16 +30,30 @@ El dataset se organiza en las siguientes columnas:
 El proceso de limpieza fue meticuloso, empleando expresiones regulares para asegurar la correcta separación y organización de los datos. Este proceso fue esencial para garantizar la consistencia y precisión de la información.
 
 ## Instalación y Configuración
-(Proporcionar instrucciones sobre cómo configurar cualquier software o librería necesaria para utilizar el dataset).
+**Python**
+**Pandas**
+**Scikit-Learn**
+**Numpy**
+**Matplotlib**
+**Seaborn**
 
 ## Ejemplos de Uso
-(Proporcionar ejemplos de código sobre cómo cargar y utilizar el dataset).
+**Posibles Usos del Dataset**
+Este dataset es adecuado para una variedad de análisis y aplicaciones, tales como:
+
+**•	Análisis de Tendencias Educativas: Explorar cómo las tasas de matriculación y otros indicadores educativos han cambiado a lo largo del tiempo en diferentes países.**
+
+**•	Comparaciones Internacionales: Realizar comparaciones entre países en términos de sus avances y desafíos educativos.**
+
+**•	Modelado Predictivo: Utilizar los datos para predecir tendencias futuras en la educación a nivel global o regional.**
+
+**•	Investigación en Políticas Educativas: Proporcionar una base de datos sólida para investigadores y formuladores de políticas interesados en mejorar los sistemas educativos.**
 
 ## Licencia
-Información sobre la licencia bajo la cual se comparte el dataset.
+Apache 2.0
 
 ## Contacto
-Si tienes preguntas o deseas colaborar, no dudes en contactar (proporcionar medio de contacto).
+isabelocastillods@gmail.com
 
 ## Próximas Actualizaciones y Desarrollo de la API
 Estamos desarrollando una API con interfaz gráfica que facilitará la manipulación y visualización interactiva de los gráficos basados en este dataset. Esta herramienta permitirá el acceso a través de una URL, ofreciendo un análisis más dinámico y adaptado a necesidades específicas.
