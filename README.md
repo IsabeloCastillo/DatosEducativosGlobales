@@ -46,13 +46,15 @@ El proceso de limpieza fue meticuloso, empleando expresiones regulares para aseg
 **Posibles Usos del Dataset**
 Este dataset es adecuado para una variedad de análisis y aplicaciones, tales como:
 
-**•	Análisis de Tendencias Educativas: Explorar cómo las tasas de matriculación y otros indicadores educativos han cambiado a lo largo del tiempo en diferentes países.**
+**•	Análisis de Tendencias Educativas:** Explorar cómo las tasas de matriculación y otros indicadores educativos han cambiado a lo largo del tiempo en diferentes países.
 
-**•	Comparaciones Internacionales: Realizar comparaciones entre países en términos de sus avances y desafíos educativos.**
+**•	Comparaciones Internacionales:** Realizar comparaciones entre países en términos de sus avances y desafíos educativos.
 
-**•	Modelado Predictivo: Utilizar los datos para predecir tendencias futuras en la educación a nivel global o regional.**
+**•	Modelado Predictivo:** Utilizar los datos para predecir tendencias futuras en la educación a nivel global o regional.
 
-**•	Investigación en Políticas Educativas: Proporcionar una base de datos sólida para investigadores y formuladores de políticas interesados en mejorar los sistemas educativos.**
+**•	Investigación en Políticas Educativas:** Proporcionar una base de datos sólida para investigadores y formuladores de políticas interesados en mejorar los sistemas educativos.
+
+
 
 ## Licencia
 Apache 2.0
