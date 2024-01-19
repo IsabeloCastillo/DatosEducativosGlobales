@@ -31,10 +31,15 @@ El proceso de limpieza fue meticuloso, empleando expresiones regulares para aseg
 
 ## Instalación y Configuración
 **Python**
+
 **Pandas**
+
 **Scikit-Learn**
+
 **Numpy**
+
 **Matplotlib**
+
 **Seaborn**
 
 ## Ejemplos de Uso
